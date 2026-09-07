@@ -9,7 +9,7 @@
   <img alt="About" src="https://raw.githubusercontent.com/prince-raveled/prince-raveled/main/assets/h-about-light.svg">
 </picture>
 
-I'm **Prince Kumar** — a third-year B.Tech Bioinformatics student at **SASTRA Deemed University**,
+I'm **Prince Kumar** --  A third-year B.Tech Bioinformatics student at **SASTRA Deemed University**,
 working at the crossroads of biology, data, and imagination.
 
 Most weeks I'm in a Linux shell, pushing gut metagenome reads through QC, host filtering and
