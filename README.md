@@ -20,12 +20,12 @@ design club, or out with a camera waiting for the light to do something interest
 I like work that is quiet, careful, and reproducible — and I like it to *look* like something.
 
 ```text
-📍  Thanjavur, Tamil Nadu, India
-🎓  B.Tech Bioinformatics · SASTRA · 2024 → 2028 · CGPA 8.49 / 10
-🔬  Now: gut metagenome profiling, SILVA vs. Greengenes, co-occurrence networks
-🎨  Also: Blender artist @ 300dpi  ·  Photography & Media @ DeNovo–SCBT
-🌱  Learning: reproducible pipelines, ML for biology, better colour grading
-💬  Ask me about: MetaPhlAn, 16S vs. shotgun, or why my renders take so long
+•  Thanjavur, Tamil Nadu, India
+•  B.Tech Bioinformatics · SASTRA · 2024 → 2028 · CGPA 8.49 / 10
+•  Now: gut metagenome profiling, SILVA vs. Greengenes, co-occurrence networks
+•  Also: Blender artist @ 300dpi  ·  Photography & Media @ DeNovo–SCBT
+•  Learning: reproducible pipelines, ML for biology, better colour grading
+•  Ask me about: MetaPhlAn, 16S vs. shotgun, or why my renders take so long
 ```
 
 <picture>
@@ -55,7 +55,7 @@ I like work that is quiet, careful, and reproducible — and I like it to *look*
   <img alt="Work" src="https://raw.githubusercontent.com/prince-raveled/prince-raveled/main/assets/h-work-light.svg">
 </picture>
 
-### 🧬 Reference database choice changes who you think lives in the gut
+### Reference database choice changes who you think lives in the gut
 
 **First author · with N.T. Devika · Dept. of Bioinformatics, SASTRA · poster @ AIxLIFE 2026**
 
