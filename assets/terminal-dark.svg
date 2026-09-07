@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="A metagenomics pipeline, running">
+<style>.cur{animation:bl 1.05s steps(1) infinite}
+@keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}
+.scan{animation:sc 9s linear infinite}
+@keyframes sc{from{transform:translateY(-100px)}to{transform:translateY(560px)}}
+.w0{animation:w0 22.0s steps(25) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w0{0%,2.00%{transform:translateX(0)}8.02%,96%{transform:translateX(732px)}97%,100%{transform:translateX(0)}}
+.w1{animation:w1 22.0s steps(33) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w1{0%,10.60%{transform:translateX(0)}16.62%,96%{transform:translateX(832px)}97%,100%{transform:translateX(0)}}
+.w2{animation:w2 22.0s steps(48) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w2{0%,19.20%{transform:translateX(0)}25.22%,96%{transform:translateX(644px)}97%,100%{transform:translateX(0)}}
+.w3{animation:w3 22.0s steps(63) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w3{0%,27.80%{transform:translateX(0)}33.82%,96%{transform:translateX(1208px)}97%,100%{transform:translateX(0)}}
+.w4{animation:w4 22.0s steps(29) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w4{0%,36.40%{transform:translateX(0)}42.42%,96%{transform:translateX(406px)}97%,100%{transform:translateX(0)}}
+.w5{animation:w5 22.0s steps(65) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w5{0%,45.00%{transform:translateX(0)}51.02%,96%{transform:translateX(1232px)}97%,100%{transform:translateX(0)}}
+.bar{animation:bar 22.0s linear infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes bar{0%,53.6%{transform:scaleX(0)}66.6%,96%{transform:scaleX(1)}97%,100%{transform:scaleX(0)}}
+.w6{animation:w6 22.0s steps(9) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w6{0%,53.60%{transform:translateX(0)}59.62%,96%{transform:translateX(594px)}97%,100%{transform:translateX(0)}}
+.w7{animation:w7 22.0s steps(39) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w7{0%,62.20%{transform:translateX(0)}68.22%,96%{transform:translateX(532px)}97%,100%{transform:translateX(0)}}
+.w8{animation:w8 22.0s steps(41) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w8{0%,70.80%{transform:translateX(0)}76.82%,96%{transform:translateX(932px)}97%,100%{transform:translateX(0)}}
+.w9{animation:w9 22.0s steps(37) infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes w9{0%,79.40%{transform:translateX(0)}85.42%,96%{transform:translateX(506px)}97%,100%{transform:translateX(0)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.2" fill="#7fd2ff" fill-opacity=".05"/></pattern><clipPath id="win"><rect width="1200" height="460" rx="18"/></clipPath></defs>
+<g clip-path="url(#win)"><rect width="1200" height="460" rx="18" fill="#080f1c"/>
+<path d="M18,0 H1182 A18,18 0 0 1 1200,18 V58 H0 V18 A18,18 0 0 1 18,0Z" fill="#7fd2ff" fill-opacity=".08"/>
+<rect y="58" width="1200" height="1" fill="#7fd2ff" fill-opacity=".2"/>
+<circle cx="34" cy="29" r="6.5" fill="#e0685f" fill-opacity=".9"/>
+<circle cx="58" cy="29" r="6.5" fill="#e2b04a" fill-opacity=".9"/>
+<circle cx="82" cy="29" r="6.5" fill="#71b85c" fill-opacity=".9"/>
+<text x="600.0" y="35" text-anchor="middle" font-size="16" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" fill="#6b86a8">gut-metagenome — bash — 120×32</text>
+<text x="36" y="96" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" xml:space="preserve"><tspan fill="#7fd2ff" fill-opacity=".85">prince@sastra:~/gut-metagenome$ </tspan><tspan fill="#bfe4ff">conda activate metagenome</tspan></text>
+<rect class="w0" x="30" y="71" width="732" height="32" fill="#080f1c"/>
+<text x="36" y="128" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" xml:space="preserve"><tspan fill="#7fd2ff" fill-opacity=".85">prince@sastra:~/gut-metagenome$ </tspan><tspan fill="#bfe4ff">fastqc raw/*.fastq.gz -t 8 -o qc/</tspan></text>
+<rect class="w1" x="30" y="103" width="832" height="32" fill="#080f1c"/>
+<circle cx="43" cy="153" r="3.2" fill="#e8b866"/><text x="60" y="160" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" fill="#6b86a8">24 samples  ·  mean Q30 94.1%  ·  adapters clean</text>
+<rect class="w2" x="30" y="135" width="644" height="32" fill="#080f1c"/>
+<text x="36" y="192" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" xml:space="preserve"><tspan fill="#7fd2ff" fill-opacity=".85">prince@sastra:~/gut-metagenome$ </tspan><tspan fill="#bfe4ff">bowtie2 --very-sensitive -x hg38 -U trim.fq --un-gz clean.fq.gz</tspan></text>
+<rect class="w3" x="30" y="167" width="1208" height="32" fill="#080f1c"/>
+<circle cx="43" cy="217" r="3.2" fill="#e8b866"/><text x="60" y="224" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" fill="#6b86a8">97.3% non-host reads retained</text>
+<rect class="w4" x="30" y="199" width="406" height="32" fill="#080f1c"/>
+<text x="36" y="256" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" xml:space="preserve"><tspan fill="#7fd2ff" fill-opacity=".85">prince@sastra:~/gut-metagenome$ </tspan><tspan fill="#bfe4ff">metaphlan clean.fq.gz --input_type fastq --nproc 8 -o profile.tsv</tspan></text>
+<rect class="w5" x="30" y="231" width="1232" height="32" fill="#080f1c"/>
+<text x="56" y="288" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" fill="#6b86a8">profiling</text><rect x="193.5" y="273" width="420" height="15" rx="7.5" fill="#7fd2ff" fill-opacity=".14"/><rect class="bar" x="193.5" y="273" width="420" height="15" rx="7.5" fill="#7fd2ff" fill-opacity=".8"/>
+<rect class="w6" x="30" y="263" width="594" height="32" fill="#080f1c"/>
+<circle cx="43" cy="313" r="3.2" fill="#e8b866"/><text x="60" y="320" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" fill="#6b86a8">1,284 clades  ·  312 species-level SGBs</text>
+<rect class="w7" x="30" y="295" width="532" height="32" fill="#080f1c"/>
+<text x="36" y="352" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" xml:space="preserve"><tspan fill="#7fd2ff" fill-opacity=".85">prince@sastra:~/gut-metagenome$ </tspan><tspan fill="#bfe4ff">Rscript sparcc_network.R --r 0.5 --p 0.01</tspan></text>
+<rect class="w8" x="30" y="327" width="932" height="32" fill="#080f1c"/>
+<circle cx="43" cy="377" r="3.2" fill="#e8b866"/><text x="60" y="384" font-size="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" fill="#6b86a8">network built  ·  87 nodes, 214 edges</text>
+<rect class="w9" x="30" y="359" width="506" height="32" fill="#080f1c"/>
+<rect class="cur" x="36" y="399" width="10" height="20" fill="#7fd2ff" fill-opacity=".9"/>
+<rect width="1200" height="460" fill="url(#scan)" opacity=".55"/>
+<rect class="scan" width="1200" height="60" fill="#7fd2ff" fill-opacity=".04"/>
+<rect x=".9" y=".9" width="1198.2" height="458.2" rx="18" fill="none" stroke="#7fd2ff" stroke-opacity=".28" stroke-width="1.8"/></g></svg>

@@ -1,0 +1,3 @@
+tools/.fontcache/
+__pycache__/
+*.pyc
